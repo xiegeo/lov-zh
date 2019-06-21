@@ -1,2 +1,2 @@
-# lov-zh
-Legends of Vancouver 中文翻译
+# Legends of Vancouver
+# 温哥华传说集
