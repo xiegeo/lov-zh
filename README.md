@@ -14,3 +14,14 @@ This is a translation project for the book "Legends of Vancouver" from English t
 - Website with images and maps: <https://www.legendsofvancouver.net/>
 - Book text with page number: <https://digital.library.upenn.edu/women/johnson/vancouver/vancouver.html>
 - Book text for eBook reading: <https://www.gutenberg.org/ebooks/3478>
+
+
+## Copyright 版权
+
+The translations are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+翻译采用 [知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/)进行许可.
+
+<details> <summary>署名信息</summary>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">温哥华传说集(Legends of Vancouver)</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/xiegeo/lov-zh" property="cc:attributionName" rel="cc:attributionURL">谢宇光(George Xie)</a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享 署名 4.0 国际 许可协议</a>进行许可。<br />基于<a xmlns:dct="http://purl.org/dc/terms/" href="https://archive.org/details/legendsofvancouv00john" rel="dct:source">https://archive.org/details/legendsofvancouv00john</a>上的作品创作。
+</details>
