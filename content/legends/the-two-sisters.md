@@ -15,14 +15,14 @@ hold the last color of sunset.  Twin mountains they are, lifting
 their twin peaks above the fairest city in all Canada, and known
 throughout the British Empire as "The Lions of Vancouver."
 
-当你在城市里往北偏西张望时，会看到梦幻般的山丘游入了珍珠点嵌的灰云。它们抓住了日出时最早的来讯，它们挽留了日落时最后的色彩。它们就是一对双山，在加拿大最美丽的城市上空立起双峰。它们就是大英帝国众所周知的“温哥华双狮峰”。
+当你在城市里往北偏西张望时，会看到梦幻般的山丘游入了天空，漂移着珍珠色和灰色的云。它们抓住了日出时最早的来讯，它们挽留了日落时最后的色彩。它们就是一对双山，在加拿大最美丽的城市上空立起双峰。它们就是大英帝国众所周知的“温哥华双狮峰”。
 
 Sometimes the smoke of forest fires blurs them until they gleam like
 opals in a purple atmosphere, too beautiful for words to paint.
 Sometimes the slanting rains festoon scarfs of mist about their
 crests, and the peaks fade into shadowy outlines, melting, melting,
 forever melting into the distances.   
-有时，它们被森林大火的烟雾笼罩，逐渐模糊，直到它们在紫色的空气中像蛋白石一样闪闪发光，美丽的不能用语言描述。
+有时，它们被森林大火的烟雾笼罩，逐渐模糊，直到它们在紫色的大气中像蛋白石一样闪闪发光，美丽的不能用语言描述。
 有时，倾斜的雨水给山顶花彩上了薄雾头巾，让双峰渐渐的只剩下阴暗的轮廓，融化，融化，融化到了遥远的天边。  
 But for most days in the year
 the sun circles the twin glories with a sweep of gold.  The moon
@@ -43,21 +43,29 @@ we followed the trail leading to the canyon.
 He seemed so surprised
 at the name that I mentioned the reason it had been applied to them,
 asking him if he recalled the Landseer Lions in Trafalgar Square.  
-他对这个名字感到很惊讶，我就说起了它的来源，问他是否记得特拉法加广场上的狮子铜像。  
+他对这个名字感到很惊讶，我就说出了它的来源，问他是否记得特拉法加广场上的兰西尔狮子。  
 Yes, he remembered those splendid sculptures, and his quick eye saw
-the resemblance instantly.  It appeared to please him, and his fine
+the resemblance instantly.  
+是的，他记得那些雄伟的雕塑，他的锐眼瞬间看到了相似之处。  
+It appeared to please him, and his fine
 face expressed the haunting memories of the far-away roar of Old
-London.  But the "call of the blood" was stronger, and presently he
+London.  
+这似乎取悦他，他的俊脸透露出了难忘的记忆，那是遥远的旧伦敦之吼。  
+But the "call of the blood" was stronger, and presently he
 referred to the Indian legend of those peaks--a legend that I have
 reason to believe is absolutely unknown to thousands of Palefaces
 who look upon "The Lions" daily, without the love for them that is
 in the Indian heart, without knowledge of the secret of "The Two
-Sisters."  The legend was intensely fascinating as it left his lips
+Sisters."  
+但是“血的呼唤”更强烈，现在他开始讲述那些山峰的印第安传说 -- 一个我有理由相信是不被那上千个每天都看着“狮子峰”的白人所知的故事。他们没有一颗像印第安人一样那么爱它们的心，因为他们不懂得“姐妹峰”的秘密。  
+The legend was intensely fascinating as it left his lips
 in the quaint broken English that is never so dulcet as when it
 slips from an Indian tongue.  His inimitable gestures, strong,
 graceful, comprehensive, were like a perfectly chosen frame
 embracing a delicate painting, and his brooding eyes were as the
-light in which the picture hung.  "Many thousands of years ago,"
+light in which the picture hung.  
+这个传说让他讲的非常引人入胜。他讲的英语离奇破碎，只有从印第安人口中才能听到如此悦耳的英语。他独特的姿态，强壮，优雅，全面，就像是用一个完美挑选出的画框   
+"Many thousands of years ago,"
 he began, "there were no twin peaks like sentinels guarding the
 outposts of this sunset coast.  They were placed there long after
 the first creation, when the Sagalie Tyee moulded the mountains,
