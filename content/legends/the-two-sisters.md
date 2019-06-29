@@ -2,9 +2,11 @@
 title = "The Two Sisters"
 +++
 
-# THE TWO SISTERS
+![photo](../images/book/john_0024h-1200.jpg)
 
-THE LIONS
+# THE TWO SISTERS 姐妹峰
+
+THE LIONS 双狮峰
 
 You can see them as you look towards the north and the west, where
 the dream-hills swim into the sky amid their ever-drifting clouds
@@ -13,23 +15,35 @@ hold the last color of sunset.  Twin mountains they are, lifting
 their twin peaks above the fairest city in all Canada, and known
 throughout the British Empire as "The Lions of Vancouver."
 
+当你在城市里往北偏西张望时，会看到梦幻般的山丘游入了珍珠点嵌的灰云。它们最早抓住日出的来讯，它们挽留日落时最后的色彩。它们是一对双山，在加拿大最美丽的城市上空立起双峰。它们就是大英帝国众所周知的“温哥华双狮峰”。
+
 Sometimes the smoke of forest fires blurs them until they gleam like
 opals in a purple atmosphere, too beautiful for words to paint.
 Sometimes the slanting rains festoon scarfs of mist about their
 crests, and the peaks fade into shadowy outlines, melting, melting,
-forever melting into the distances.  But for most days in the year
+forever melting into the distances. 
+有时，它们被森林大火的烟雾笼罩，逐渐模糊，直到它们在紫色的空气中像蛋白石一样闪闪发光，美丽的不能用语言描述。
+有时，倾斜的雨水给山顶花彩上了薄雾头巾，让双峰渐渐的只剩下阴暗的轮廓，融化，融化，融化到了遥远的天边。
+But for most days in the year
 the sun circles the twin glories with a sweep of gold.  The moon
-washes them with a torrent of silver.  Oftentimes, when the city is
+washes them with a torrent of silver.
+但是在每年的大多数日子里， 太阳是以一笔金粉围绕双峰辉煌。月亮则用一股银水清洗它们。
+Oftentimes, when the city is
 shrouded in rain, the sun yellows their snows to a deep orange; but
 through sun and shadow they stand immovable, smiling westward above
 the waters of the restless Pacific, eastward above the superb beauty
-of the Capilano Canyon.  But the Indian tribes do not know these
+of the Capilano Canyon.  
+经常，当这个城市被笼罩在雨中时，山上的雪被太阳照成深橙色；然而它们在光影下还能一丝不动的微笑，向着西方太平洋焦急的海面上，又向着东方卡皮拉诺峡谷绝美的大地上。
+But the Indian tribes do not know these
 peaks as "The Lions."  Even the chief, whose feet have so recently
 wandered to the Happy Hunting Grounds, never heard the name given
 them until I mentioned it to him one dreamy August day, as together
-we followed the trail leading to the canyon.  He seemed so surprised
+we followed the trail leading to the canyon.  
+但是印第安部落并不吧它们称作“双狮峰”。即使是酋长，他的双脚刚刚游入了狩猎乐土，也从来没有听说过这个名字，直到我在一个梦幻般的八月天跟他在一个通往峡谷的小道上提了起来。
+He seemed so surprised
 at the name that I mentioned the reason it had been applied to them,
 asking him if he recalled the Landseer Lions in Trafalgar Square.
+他对这个名字感到很惊讶，我就说起了它的来源，问他是否记得特拉法加广场上的狮子铜像
 Yes, he remembered those splendid sculptures, and his quick eye saw
 the resemblance instantly.  It appeared to please him, and his fine
 face expressed the haunting memories of the far-away roar of Old
