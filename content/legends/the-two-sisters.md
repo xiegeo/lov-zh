@@ -4,7 +4,7 @@ title = "The Two Sisters"
 
 ![photo](../images/book/john_0024h-1200.jpg)
 
-# THE TWO SISTERS 姐妹峰
+# THE TWO SISTERS 二姐妹
 
 THE LIONS 双狮峰
 
@@ -57,30 +57,36 @@ reason to believe is absolutely unknown to thousands of Palefaces
 who look upon "The Lions" daily, without the love for them that is
 in the Indian heart, without knowledge of the secret of "The Two
 Sisters."  
-但是“血的呼唤”更强烈，现在他开始讲述那些山峰的印第安传说 -- 一个我有理由相信是不被那上千个每天都看着“狮子峰”的白人所知的故事。他们没有一颗像印第安人一样那么爱它们的心，因为他们不懂得“姐妹峰”的秘密。  
+但是“血的呼唤”更强烈，现在他开始讲述那些山峰的印第安传说 -- 一个我有理由相信是不被那上千个每天都看着“狮子峰”的白人所知的故事。他们没有一颗像印第安人一样那么爱它们的心，因为他们不懂得“二姐妹”的秘密。  
 The legend was intensely fascinating as it left his lips
 in the quaint broken English that is never so dulcet as when it
 slips from an Indian tongue.  His inimitable gestures, strong,
 graceful, comprehensive, were like a perfectly chosen frame
 embracing a delicate painting, and his brooding eyes were as the
 light in which the picture hung.  
-这个传说让他讲的非常引人入胜。他讲的英语离奇破碎，只有从印第安人口中才能听到如此悦耳的英语。他独特的姿态，强壮，优雅，全面，就像是用一个完美挑选出的画框   
+这个传说让他讲的非常引人入胜。他讲的英语离奇破碎，只从印第安人口中才能听到如此悦耳的声音。他独特的姿态，强壮，优雅，全面，就像是有一个完美挑选出的画框拥抱住一幅精致的画作，又被他那忧郁的眼光照着。  
 "Many thousands of years ago,"
 he began, "there were no twin peaks like sentinels guarding the
 outposts of this sunset coast.  They were placed there long after
 the first creation, when the Sagalie Tyee moulded the mountains,
 and patterned the mighty rivers where the salmon run, because
 of His love for His Indian children, and His wisdom for their
-necessities.  In those times there were many and mighty Indian
+necessities.  
+“几千年以前，”他开始说：“这里没有像哨兵一样守护这个夕阳海岸的双峰。它们是创始之后，过了很久很久才被安置在那里的。造世主 Sagalie Tyee 塑造了山脉，描述了大江，让三文鱼回游，因为他热爱着他的印第安孩子们，他也深知他们生活的基本需求。”  
+In those times there were many and mighty Indian
 tribes along the Pacific--in the mountain ranges, at the shores
 and sources of the great Fraser River.  Indian law ruled the land.
 Indian customs prevailed.  Indian beliefs were regarded.  Those
 were the legend-making ages when great things occurred to make the
-traditions we repeat to our children to-day.  Perhaps the greatest
+traditions we repeat to our children to-day.  
+在那个时代，太平洋沿岸上有许多强大的印第安部落。他们栖息在山脉中。他们栖息在浩大的菲沙河岸跟源头。印第安法律统治了这片土地。印第安习俗占据了社会主流。印第安信仰被受尊重。那是一个塑造传奇的时代，当时发生的伟大事情造就了我们今日代代讲给孩子们听的传统。
+Perhaps the greatest
 of these traditions is the story of 'The Two Sisters,' for they
 are known to us as 'The Chief's Daughters,' and to them we owe the
 Great Peace in which we live, and have lived for many countless
-moons.  There is an ancient custom amongst the coast tribes that,
+moons.  
+在这些故事中，也许最伟大的传说要数“二姐妹”了。我们吧她们称作“酋长的女儿们”。我们要为这无数星月里的长久和平为她们感恩。  
+There is an ancient custom amongst the coast tribes that,
 when our daughters step from childhood into the great world of
 womanhood, the occasion must be made one of extreme rejoicing.
 The being who possesses the possibility of some day mothering a
