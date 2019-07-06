@@ -13,8 +13,7 @@ the dream-hills swim into the sky amid their ever-drifting clouds
 of pearl and grey.  They catch the earliest hint of sunrise, they
 hold the last color of sunset.  Twin mountains they are, lifting
 their twin peaks above the fairest city in all Canada, and known
-throughout the British Empire as "The Lions of Vancouver."
-
+throughout the British Empire as "The Lions of Vancouver."  
 当你在城市里往北偏西张望时，会看到梦幻般的山丘游入了天空，漂移着珍珠色和灰色的云。它们抓住了日出时最早的来讯，它们挽留了日落时最后的色彩。它们就是一对双山，在加拿大最美丽的城市上空立起双峰。它们就是大英帝国众所周知的“温哥华双狮峰”。
 
 Sometimes the smoke of forest fires blurs them until they gleam like
@@ -72,37 +71,45 @@ the first creation, when the Sagalie Tyee moulded the mountains,
 and patterned the mighty rivers where the salmon run, because
 of His love for His Indian children, and His wisdom for their
 necessities.  
-“几千年以前，”他开始说：“这里没有像哨兵一样守护这个夕阳海岸的双峰。它们是创始之后，过了很久很久才被安置在那里的。造世主 Sagalie Tyee 塑造了山脉，描述了大江，让三文鱼回游，因为他热爱着他的印第安孩子们，他也深知他们生活的基本需求。”  
+“几千年以前，”他开始说：“这里没有像哨兵一样守护这个夕阳海岸的双峰。它们是创始之后，过了很久很久才被安置在那里的。神（Sagalie Tyee）塑造了山脉，描述了大江，让三文鱼回游，因为他热爱着他的印第安孩子们，他也深知他们生活的基本需求。  
 In those times there were many and mighty Indian
 tribes along the Pacific--in the mountain ranges, at the shores
 and sources of the great Fraser River.  Indian law ruled the land.
 Indian customs prevailed.  Indian beliefs were regarded.  Those
 were the legend-making ages when great things occurred to make the
 traditions we repeat to our children to-day.  
-在那个时代，太平洋沿岸上有许多强大的印第安部落。他们栖息在山脉中。他们栖息在浩大的菲沙河岸跟源头。印第安法律统治了这片土地。印第安习俗占据了社会主流。印第安信仰被受尊重。那是一个塑造传奇的时代，当时发生的伟大事情造就了我们今日代代讲给孩子们听的传统。
+在那个时代，太平洋沿岸上有许多强大的印第安部落。他们栖息在山脉中。他们栖息在浩大的菲沙河岸跟源头。印第安法律统治了这片土地。印第安习俗占据了社会主流。印第安信仰被受尊重。那是一个塑造传奇的时代，当时发生的伟大事情造就了我们今日代代讲给孩子们听的传统。  
 Perhaps the greatest
 of these traditions is the story of 'The Two Sisters,' for they
 are known to us as 'The Chief's Daughters,' and to them we owe the
 Great Peace in which we live, and have lived for many countless
 moons.  
-在这些故事中，也许最伟大的传说要数“二姐妹”了。我们吧她们称作“酋长的女儿们”。我们要为这无数星月里的长久和平为她们感恩。  
+在这些故事中，也许最伟大的传说要数‘二姐妹’了。我们吧她们称作‘酋长的女儿们’。我们要为这无数星月里的长久和平为她们感恩。  
 There is an ancient custom amongst the coast tribes that,
 when our daughters step from childhood into the great world of
-womanhood, the occasion must be made one of extreme rejoicing.
+womanhood, the occasion must be made one of extreme rejoicing.  
+在海岸部落中有一种古老的习俗，当我们的女儿从童年步入到伟大的女性世界时，这是一个极其值得庆祝的日子。  
 The being who possesses the possibility of some day mothering a
 man-child, a warrior, a brave, receives much consideration in most
 nations; but to us, the Sunset tribes, she is honored above all
-people.  The parents usually give a great potlatch, and a feast
+people.  
+因为她有生育培养一个男孩，一个战士，一个英雄的可能性，所以大部分国家都会对她关心；但是对于我们日落部落（指海岸部落的一个分支，或者两词同义）来说，她是所有人里最值得尊重的。  
+The parents usually give a great potlatch, and a feast
 that lasts many days.  The entire tribe and the surrounding tribes
-are bidden to this festival.  More than that, sometimes when a
+are bidden to this festival.  
+通常，父母会举办一个豪华的散财宴（potlatch）和多日的盛宴。整个部落和周围的部落都被邀请。  
+More than that, sometimes when a
 great Tyee celebrates for his daughter, the tribes from far up the
 coast, from the distant north, from inland, from the island, from
-the Cariboo country, are gathered as guests to the feast.  During
+the Cariboo country, are gathered as guests to the feast.  
+不止于此，有时当一个伟大的酋长为他的女儿庆祝时，从海岸远处，遥远的北方，内陆，岛屿，和卡里布地区的部落都会来庆祝。  
+During
 these days of rejoicing the girl is placed in a high seat, an
 exalted position, for is she not marriageable?  And does not
 marriage mean motherhood?  And does not motherhood mean a vaster
 nation of brave sons and of gentle daughters, who, in their turn,
-will give us sons and daughters of their own?
+will give us sons and daughters of their own?  
+在这些欢庆的日子里，女孩被安置在一个高坐上，那是一个崇高的位置，因为她不适合婚姻吗？结婚不意为母亲？母亲不意为我们民族添加了勇敢的儿子和温柔的女儿，再代代相传？”
 
 "But it was many thousands of years ago that a great Tyee had two
 daughters that grew to womanhood at the same springtime, when the
@@ -115,7 +122,8 @@ many leagues, were to bring gifts to the girls and to receive gifts
 of great value from the chief, and hospitality was to reign as long
 as pleasuring feet could dance, and enjoying lips could laugh, and
 mouths partake of the excellence of the chief's fish, game, and
-ollallies.
+ollallies.  
+“但是在几千年前，在一个三文鱼刚开始回游并挤满了河流，莓果丛中百花齐放的春天，一位大酋长的两个女儿同时成年。她们年轻，可爱，哦！太漂亮了！她们的父亲，伟大的酋长，准备了一个海岸上从未见过的盛宴。
 
 "The only shadow on the joy of it all was war, for the tribe of the
 great Tyee was at war with the Upper Coast Indians, those who lived
