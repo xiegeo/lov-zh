@@ -102,7 +102,7 @@ More than that, sometimes when a
 great Tyee celebrates for his daughter, the tribes from far up the
 coast, from the distant north, from inland, from the island, from
 the Cariboo country, are gathered as guests to the feast.  
-不止于此，有时当一个伟大的酋长为他的女儿庆祝时，从海岸远处，遥远的北方，内陆，岛屿，和卡里布地区的部落都会来庆祝。  
+不止于此，有时当一个伟大的酋长为他的女儿庆祝时，从沿岸远处，遥远的北方，内陆，岛屿，和卡里布地区的部落都会来庆祝。  
 During
 these days of rejoicing the girl is placed in a high seat, an
 exalted position, for is she not marriageable?  And does not
@@ -123,7 +123,7 @@ of great value from the chief, and hospitality was to reign as long
 as pleasuring feet could dance, and enjoying lips could laugh, and
 mouths partake of the excellence of the chief's fish, game, and
 ollallies.  
-“但是在几千年前，在一个三文鱼刚开始回游并挤满了河流，莓果丛中百花齐放的春天，一位大酋长的两个女儿同时成年。她们年轻，可爱，哦！太漂亮了！她们的父亲，伟大的酋长，准备了一个海岸上从未见过的盛宴。
+“但是在几千年前，在一个三文鱼刚开始回游并挤满了河流，莓果丛中百花齐放的春天，一位大酋长的两个女儿同时成年。她们年轻，可爱，哦！太漂亮了。她们的父亲，伟大的酋长，准备了一个海岸上从未见过的盛宴。人们将从个个联盟聚集到这里，为女孩儿门带来礼物并收到酋长的厚礼。这里将会迎来一天又一天的欢庆，只要欢乐的脚丫还可以跳舞，享乐的唇还可以嘻笑，嘴还可以品味酋长的鱼，猎，和果实。”
 
 "The only shadow on the joy of it all was war, for the tribe of the
 great Tyee was at war with the Upper Coast Indians, those who lived
@@ -140,16 +140,20 @@ the traditions of his race and household.  So he turned insultingly
 deaf ears to their war-cries; he ignored with arrogant indifference
 their paddle-dips that encroached within his own coast waters, and
 he prepared, as a great Tyee should, to royally entertain his
-tribesmen in honor of his daughters.
+tribesmen in honor of his daughters.  
+“但这所有的喜悦都被战争所笼罩着，因为大酋长的部落正在与沿海北方的印第安部落打仗，他们居住在白人所称的鲁珀特王子港附近。巨型的战船溜动于整个沿岸，战队的桨上下穿梭，战歌打断了夜晚的宁静。仇恨，报复，冲突，恐惧像遍地溃疡一样溃烂于世。即使这样，在数星期的战争后，大酋长转身嘲笑了这个血腥的战斗。因为他在每次战斗中都获得了胜利，他有实力从冲突抽出短暂的一个星期来为他的女儿们庆祝，而他不能让任意一个敌人来掐入到他与他民族和家庭的传统之间。所以他侮辱地聋避了他们的战吼；他傲慢地忽视了他们的船桨入侵水域，并且他，按照一个伟大的酋长应该做的，为他的女儿们为荣的盛大宴席做了准备。”
 
 "But seven suns before the great feast these two maidens came before
-him, hand clasped in hand.
+him, hand clasped in hand.  
+“但是就在盛宴开始的七天前，这两位少女来到了他面前，手紧握着。”
 
-"'Oh! our father,' they said, 'may we speak?'
+"'Oh! our father,' they said, 'may we speak?'  
+“‘哦！父亲，’她们说：‘我们可以说话吗？’”
 
 "'Speak, my daughters, my girls with the eyes of April, the hearts
 of June'" (early spring and early summer would be the more accurate
-Indian phrasing).
+Indian phrasing).  
+“‘说呀，我的女儿们，我的孩子拥有初春的眼睛和初夏的心。’”
 
 "'Some day, oh! our father, we may mother a man-child, who may grow
 to be just such a powerful Tyee as you are, and for this honor that
