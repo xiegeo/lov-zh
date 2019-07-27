@@ -2,7 +2,9 @@
 title = "The Two Sisters"
 +++
 
-![photo](../images/book/john_0024h-1200.jpg)
+![原书插图](../images/book/john_0024h-1200.jpg)
+
+![图片](../images/xiegeo/lions-from-cleveland-dam-1200.jpg)
 
 # THE TWO SISTERS 二姐妹
 
@@ -159,24 +161,31 @@ Indian phrasing).
 to be just such a powerful Tyee as you are, and for this honor that
 may some day be ours we have come to crave a favor of you--you, Oh!
 our father.'
+“‘有一天，哦！父亲，我们可能会生出一个男孩，他可能会成长成一个像您一样伟大的酋长，为了这个能赐予我们荣誉的未来，我们渴望您能答应一个请求，哦！我们的父亲。’”  
 
 "'It is your privilege at this celebration to receive any favor your
 hearts may wish,' he replied graciously, placing his fingers beneath
 their girlish chins.  'The favor is yours before you ask it, my
-daughters.'
+daughters.'  
+“‘在这个庆祝中你们有权力得到任何心中所求，’他亲戚的回答到，手指抚摸着她们的下巴。‘都不用问，我的女儿们。’”  
 
 "'Will you, for our sakes, invite the great northern hostile
 tribe--the tribe you war upon--to this, our feast?' they asked
-fearlessly.
+fearlessly.  
+“‘您可以，为了我们，邀请北方的敌对大部落 -- 那个与您战争的 -- 来到这个，我们的宴席？’ 她们毫无畏惧的问。”  
 
 "'To a peaceful feast, a feast in the honor of women?' he exclaimed
-incredulously.
+incredulously.  
+“‘来到一个和平的盛宴，为了女人的荣耀？’ 他不可思议的喊出。”  
 
-"'So we would desire it,' they answered.
+"'So we would desire it,' they answered.  
+“‘这就是我们所求’ 她们回答到。”  
 
 "'And so shall it be,' he declared.  'I can deny you nothing this
 day, and some time you may bear sons to bless this peace you have
-asked, and to bless their mother's sire for granting it.'  Then he
+asked, and to bless their mother's sire for granting it.'  
+“‘那就如此，’他声明到。‘今天我不能拒绝你们，以后你们会生子来祝福你们渴望的和平，也祝福他们的老爷实现了它。’”  
+Then he
 turned to all the young men of the tribe and commanded: 'Build fires
 at sunset on all the coast headlands--fires of welcome.  Man your
 canoes and face the north, greet the enemy, and tell them that I,
