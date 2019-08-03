@@ -125,7 +125,7 @@ of great value from the chief, and hospitality was to reign as long
 as pleasuring feet could dance, and enjoying lips could laugh, and
 mouths partake of the excellence of the chief's fish, game, and
 ollallies.  
-“但是在几千年前，在一个三文鱼刚开始回游并挤满了河流，莓果丛中百花齐放的春天，一位大酋长的两个女儿同时成年。她们年轻，可爱，哦！太漂亮了。她们的父亲，伟大的酋长，准备了一个海岸上从未见过的盛宴。人们将从个个联盟聚集到这里，为女孩儿门带来礼物并收到酋长的厚礼。这里将会迎来一天又一天的欢庆，只要欢乐的脚丫还可以跳舞，享乐的唇还可以嘻笑，嘴还可以品味酋长的鱼，猎，和果实。”
+“但是在几千年前，在一个三文鱼刚开始回游并挤满了河流，莓果丛中百花齐放的春天，一位大酋长的两个女儿同时成年。她们年轻，可爱，哦！太漂亮了。她们的父亲，伟大的酋长，准备了一个海岸上从未见过的盛宴。人们将从个个联盟聚集到这里，为女孩儿门带来礼物并收到酋长的厚礼。这里将会迎来一天又一天的欢庆，只要欢乐的脚丫还可以跳舞，享乐的唇还可以嘻笑，嘴还可以品味酋长的鱼肉，猎物，和果实。”
 
 "The only shadow on the joy of it all was war, for the tribe of the
 great Tyee was at war with the Upper Coast Indians, those who lived
@@ -184,21 +184,27 @@ incredulously.
 "'And so shall it be,' he declared.  'I can deny you nothing this
 day, and some time you may bear sons to bless this peace you have
 asked, and to bless their mother's sire for granting it.'  
-“‘那就如此，’他声明到。‘今天我不能拒绝你们，以后你们会生子来祝福你们渴望的和平，也祝福他们的老爷实现了它。’”  
+“‘那就如此，’他声明到。‘今天我不能拒绝你们，以后你们会生子来祝福你们渴望的和平，也祝福他们的老爷实现了它。’  
 Then he
 turned to all the young men of the tribe and commanded: 'Build fires
 at sunset on all the coast headlands--fires of welcome.  Man your
 canoes and face the north, greet the enemy, and tell them that I,
 the Tyee of the Capilanos, ask--no, command--that they join me for a
-great feast in honor of my two daughters.'  And when the northern
+great feast in honor of my two daughters.'  
+然后他向部落的所有年轻男子发出了命令：‘日落时在每一个海岬上明火--欢迎之火。上船面向北方，迎接敌人，告诉他们，我，卡皮拉诺的酋长，邀请--不，是命令--他们来加入我为我女儿们举办的盛宴。’  
+And when the northern
 tribes got this invitation they flocked down the coast to this feast
 of a Great Peace.  They brought their women and their children;
 they brought game and fish, gold and white stone beads, baskets and
 carven ladles, and wonderful woven blankets to lay at the feet of
-their now acknowledged ruler, the great Tyee.  And he, in turn, gave
+their now acknowledged ruler, the great Tyee.  
+当北方部落收到了这个邀请，他们就沿着海岸涌向这个伟大的和平盛宴。他们带这女人和孩子；带上了渔猎，金白石珠，篮子和汤勺，还有美丽的编织毯子来进贡给他们现在承认的统治者，伟大的酋长。  
+And he, in turn, gave
 such a potlatch that nothing but tradition can vie with it.  There
 were long, glad days of joyousness, long, pleasurable nights of
-dancing and camp-fires, and vast quantities of food.  The war-canoes
+dancing and camp-fires, and vast quantities of food.  
+作为回礼，他举办一个只有传统才以比美的散财宴。 人们欢聚了多个欢乐的日夜，尽情的享受舞蹈和篝火，以及吃不完的食物。
+The war-canoes
 were emptied of their deadly weapons and filled with the daily catch
 of salmon.  The hostile war-songs ceased, and in their place were
 heard the soft shuffle of dancing feet, the singing voices of women,
